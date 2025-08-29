@@ -24,7 +24,6 @@
 
 .header__links-list-item {
     list-style: circle;
-    list-style: none;
 }
 
 .header__links-list-item_no-bullit {
@@ -58,7 +57,7 @@
     display: block;
     }
 
-.address { 
+.address {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -205,7 +204,7 @@
     min-height: 596px;
 }
 
-.card-link { 
+.card-link {
     display: block;
     position: relative;
     height: 100%;
@@ -354,7 +353,7 @@
 
 .footer__menu {
     height: 64px;
-    margin-left: -3px;;
+    margin-left: -3px;
     display: flex;
     flex-direction: column;
     align-items: start;
@@ -365,7 +364,7 @@
     list-style: none;
 }
 
-.footer__menu-list-item { 
+.footer__menu-list-item {
     text-align: center;
     margin-bottom: 0;
 }
