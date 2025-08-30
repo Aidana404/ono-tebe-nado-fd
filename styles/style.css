@@ -73,9 +73,7 @@
     text-underline-offset: 4px;
 }
 
-.address-text{
-    margin: 0;
-    padding: 0;
+.address-text {
     line-height: 1.3;
     font-size: 18px;
 }
